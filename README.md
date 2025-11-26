@@ -242,5 +242,9 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media and join our community:
 
 - **LinkedIn**: [Connect with me professionally](www.linkedin.com/in/sarvjeetkhg)
+- <a href="https://www.linkedin.com/in/sarvjeetkhg/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin">
+</a>
+
 
 Thank you for your support, and I look forward to connecting with you!
